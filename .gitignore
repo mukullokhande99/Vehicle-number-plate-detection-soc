@@ -1,0 +1,13 @@
+build/
+__pycache__/
+*.pyc
+
+# Generated, potentially dataset-sensitive PTQ artefacts.
+export_w4a8/
+*.npz
+*.bin
+*_sram.txt
+weights_int4.csv
+quant_params.csv
+layers.csv
+export_manifest.json

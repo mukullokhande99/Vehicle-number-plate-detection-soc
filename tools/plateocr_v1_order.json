@@ -1,0 +1,29 @@
+{
+  "activation_scale": 0.0078125,
+  "layers": [
+    {"name":"d0_conv", "weight":"d0_conv.weight", "bias":"d0_conv.bias"},
+    {"name":"d1_dw", "weight":"d1_dw.weight", "bias":"d1_dw.bias"},
+    {"name":"d1_pw", "weight":"d1_pw.weight", "bias":"d1_pw.bias"},
+    {"name":"d2_dw", "weight":"d2_dw.weight", "bias":"d2_dw.bias"},
+    {"name":"d2_pw", "weight":"d2_pw.weight", "bias":"d2_pw.bias"},
+    {"name":"d3_dw", "weight":"d3_dw.weight", "bias":"d3_dw.bias"},
+    {"name":"d3_pw", "weight":"d3_pw.weight", "bias":"d3_pw.bias"},
+    {"name":"d4_dw", "weight":"d4_dw.weight", "bias":"d4_dw.bias"},
+    {"name":"d4_pw", "weight":"d4_pw.weight", "bias":"d4_pw.bias"},
+    {"name":"d5_dw", "weight":"d5_dw.weight", "bias":"d5_dw.bias"},
+    {"name":"d5_pw", "weight":"d5_pw.weight", "bias":"d5_pw.bias"},
+    {"name":"d6_head", "weight":"d6_head.weight", "bias":"d6_head.bias"},
+    {"name":"r0_conv", "weight":"r0_conv.weight", "bias":"r0_conv.bias"},
+    {"name":"r1_dw", "weight":"r1_dw.weight", "bias":"r1_dw.bias"},
+    {"name":"r1_pw", "weight":"r1_pw.weight", "bias":"r1_pw.bias"},
+    {"name":"r2_dw", "weight":"r2_dw.weight", "bias":"r2_dw.bias"},
+    {"name":"r2_pw", "weight":"r2_pw.weight", "bias":"r2_pw.bias"},
+    {"name":"r3_dw", "weight":"r3_dw.weight", "bias":"r3_dw.bias"},
+    {"name":"r3_pw", "weight":"r3_pw.weight", "bias":"r3_pw.bias"},
+    {"name":"r4_ih", "weight":"r4_ih.weight", "bias":"r4_ih.bias"},
+    {"name":"r4_hh", "weight":"r4_hh.weight", "bias":"r4_hh.bias"},
+    {"name":"r5_ih", "weight":"r5_ih.weight", "bias":"r5_ih.bias"},
+    {"name":"r5_hh", "weight":"r5_hh.weight", "bias":"r5_hh.bias"},
+    {"name":"r6_ctc", "weight":"r6_ctc.weight", "bias":"r6_ctc.bias"}
+  ]
+}

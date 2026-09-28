@@ -1,0 +1,14 @@
+asic_mem_1rw.sv
+local_sram_slave.sv
+rv32i_core.sv
+boot_rom.sv
+qspi_camera_rx.sv
+rgb565_decimate2.sv
+vision_frame_store.sv
+vision_mem_2r1w.sv
+w4a8_dot8.sv
+int24_requantize.sv
+ctc_greedy_decoder.sv
+plate_ocr_model_core.sv
+plate_ocr_accel.sv
+plate_ocr_soc_top.sv
